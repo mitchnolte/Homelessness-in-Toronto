@@ -42,7 +42,7 @@ Aid deliverance in any field should be given in the rank of who needs it the mos
 
 Considering this, the desired outcomes of question four should also follow a similar pattern. The diagram below lists the solution in the rank of population groups that have the least success in moving into housing to the most (Families [~13.0% success rate], Refugees [~11.5% success rate], Chronic [~6.5% success rate], Youth [~5.0% success rate], Non-refugees [~3.5% success rate], and finally Single Adult [~2.5% success rate]).
 
-[image]
+![](Visuals/q5graph.png)
 
 To suggest the perfect hierarchy of these population groups would require studying that goes far beyond the scope of this project; however, a very distinct Canadian stance can readily be affirmed, the non-discriminatory nature of Canada. Refugees are ranked second to successfully move into housing. This helps to demonstrate that Canada values and supports people from all backgrounds; not holding their physical features or beliefs against them.
 
