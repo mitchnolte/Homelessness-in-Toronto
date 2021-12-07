@@ -11,7 +11,7 @@ Authors' name and github name:
 Homelessness is a serious issue that affects people all around the world, and in Toronto the issue is especially significant as the city is the centre of the housing crisis in Southern Ontario. This report is an analysis of the Toronto Shelter System Flow data set. The data set was published by the Shelter, Support & Housing Administration, which is a division of Toronto’s municipal government. It can be accessed from https://open.toronto.ca/dataset/toronto-shelter-system-flow/. This data set is about homeless people in Toronto that use city-funded shelter services. It was collected from the Shelter Management Information System (SMIS), which is used by the services to take people into their programs. The downside of this collection method is that it only provides data about people who use city-funded services, so it excludes homeless people who utilize other services and those who do not utilize any services whatsoever. This makes developing an understanding of the entire homeless population of the city impossible with this data set alone. Despite this limitation, we believe it is the most reliable data available about homelessness in Toronto as it was produced by the city’s government.
 
 ## Discussions
-#### Discussion 1
+#### Finding 1
 We were able to resolve multiple findings during our analysis on homelessness in Toronto; some of these findings informed, some reassured, and some surprised. 
 
 It has been a monumental effort of great governments to reduce active homelessness. Having a data set based on homelessness allowed us to venture right into this topic. As different members researched different areas of this data set, one was tasked to figure out if active homelessness had improved from 2020 to the present year 2021. The results were quite shocking. 
@@ -24,7 +24,7 @@ The relatively shocking drop and spike in numbers suggests a possible unpreceden
 
 Covid-19 being such a large possibility for influencing our results, it is difficult to figure out if homelessness is truly being reduced, and if so, by which magnitude. However, if assuming that the pandemic did really cause these sudden spikes to happen, interesting assumptions and insights can then be drawn from the solutions, ones that we never intended to find. One assumption that can be made is that the government believed reducing the number of people on the streets would help reduce the virus from spreading; therefore, a more than usual federal budget was expended to insure places for homeless people to stay.
 
-#### Discussion 2
+#### Finding 2
 As we first began to lay out pathways for researching this data set, the first area of interest we delved into were age groups; specifically which ones were the most susceptible to homelessness. The solutions derived from this topic were very informative, they were also however, hollow in nature; meaning the results served as general knowledge that could be used as building blocks for larger and more wholesome ideas/solutions.
 
 The group member that selected this topic to work on produced a line diagram that resembles a rough normal distribution (shown below). Based on the diagram, it can be observed that ages around 25-44 are the most susceptible to homelessness, while under 16 and over 65 are the least susceptible. 
@@ -34,7 +34,7 @@ Knowing this information, one could branch out into niche topics, such as the ex
 ![](Visuals/q1graph2.png)
 ![](Visuals/q1graph1.png)
 
-#### Discussion 3
+#### Finding 3
 Canada is renowned for its multiculturalism and kindliness, and it’s government promotes every bit of it. Our data set deals with a diverse range of people, from families and refugees, all the way to single adults. This allows for us to extract very valuable insights in regards to how accurate Canada’s recognition is and could answer questions such as, do we need to improve how help is distributed? Are we doing a sufficient job currently?
 
 Observation: Government’s Hierarchy of Aid Deliverance
