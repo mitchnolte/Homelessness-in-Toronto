@@ -16,7 +16,7 @@ We were able to resolve multiple findings during our analysis on homelessness in
 
 It has been a monumental effort of great governments to reduce active homelessness. Having a dataset based on homelessness allowed us to venture right into this topic. As different members researched different areas of this dataset, one was tasked to figure out if active homelessness had improved from 2020 to the present year 2021. The results were quite shocking. 
 
-![image info](./Visuals/q5graph.png)
+![](Visuals/q5graph.png)
 
 Taking into account the number of actively homeless in January of 2020 versus January of 2021, the numbers spiked down almost 20%; from the surface this is great news. But what more can our solution tell us? While the numbers dropped with such magnitude, so did it rise in the later months of 2021. Did homelessness really drop? Will the increase in 2021 bring the numbers back to where they were in January of 2020, or perhaps even higher? The data set we worked with was updated until September of 2021, so without adding more to our pool of data, some post-analysis questions, as the ones recently mentioned, can only have weak assumptions as solutions. 
 
@@ -31,9 +31,8 @@ The group member that selected this topic to work on produced a line diagram tha
 
 Knowing this information, one could branch out into niche topics, such as the extra care and attention given to the youth and elderly in preventing them from homelessness. What causes the sudden spike in numbers after the age of 24? Why are there sudden drops in numbers after the age of 64?
 
-[image]
-
-[image]
+![](Visuals/q1graph2.png)
+![](Visuals/q1graph1.png)
 
 #### Discussion 3
 Canada is renowned for its multiculturalism and kindliness, and it’s government promotes every bit of it. Our data set deals with a diverse range of people, from families and refugees, all the way to single adults. This allows for us to extract very valuable insights in regards to how accurate Canada’s recognition is and could answer questions such as, do we need to improve how help is distributed? Are we doing a sufficient job currently?
@@ -52,7 +51,7 @@ If one assumes this hierarchy to be in alignment with today's most progressive s
 ## Conclusion
 Our analysis of the Toronto Shelter System Flow data set has led to many interesting and useful findings about the homeless population of Toronto. Perhaps the most important of which was the way the population is changing. We found that the population decreased significantly from the beginning of 2020, but started to rise once again in the middle of 2021. The most interesting aspect of this finding was the correlation we discovered between changes in the homeless population and significant events related to the COVID-19 pandemic, indicating that the pandemic or factors caused by the pandemic could have a large impact on the homeless population. Another interesting finding was the distribution of the homeless population by age group. We found that the graph of this distribution resembles a rough normal distribution with 25-44 being the age group most susceptible to homelessness. Our final interesting finding was about the success rate of each population group moving to housing. We found that families have the highest success rate, followed closely by refugees. The high success rate of refugees demonstrates the non-discriminatory nature of Canada’s social services and overall culture.
 
-An issue our team has been running into over the course of this project is how linear the applications of this data set's information is. Little can be done about the information that the data set contains however and the few applications we have found are very valuable. Needing to look at other factors and compare them to the information we have found reduces the usefulness of the data set on its own. If the potential for data science was higher with this data set we would have better modeling and a better time creating trajectories for homelessness in the city. Searching for a better data set to work on is an option for how to improve the project for next time. Another thing to consider for next time is the way the data in the dataset was collected. This dataset only recorded a homeless person as one who used a city funded service which made it harder to form better data analysis questions.
+[refinement setcion]
 
 ## Acknowledgements
 This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and that all appropriate resources are rightfully cited.
