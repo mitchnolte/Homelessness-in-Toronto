@@ -16,7 +16,7 @@ We were able to resolve multiple findings during our analysis on homelessness in
 
 It has been a monumental effort of great governments to reduce active homelessness. Having a dataset based on homelessness allowed us to venture right into this topic. As different members researched different areas of this dataset, one was tasked to figure out if active homelessness had improved from 2020 to the present year 2021. The results were quite shocking. 
 
-[image]
+![image info](./Visuals/q5graph.png)
 
 Taking into account the number of actively homeless in January of 2020 versus January of 2021, the numbers spiked down almost 20%; from the surface this is great news. But what more can our solution tell us? While the numbers dropped with such magnitude, so did it rise in the later months of 2021. Did homelessness really drop? Will the increase in 2021 bring the numbers back to where they were in January of 2020, or perhaps even higher? The data set we worked with was updated until September of 2021, so without adding more to our pool of data, some post-analysis questions, as the ones recently mentioned, can only have weak assumptions as solutions. 
 
